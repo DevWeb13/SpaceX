@@ -1,0 +1,19 @@
+{
+  "name": "spacex",
+  "version": "1.0.0",
+  "description": "Projet réalisé en suivant le tuto de 'fromScratc()'",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./sass/style.scss ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevWeb13/SpaceX.git"
+  },
+  "author": "DevWeb13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevWeb13/SpaceX/issues"
+  },
+  "homepage": "https://github.com/DevWeb13/SpaceX#readme"
+}
